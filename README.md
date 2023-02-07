@@ -45,4 +45,4 @@ It is recommended that you create a 'read-only' user in the database.
 
 ### Grafana
 Use the created database to create a grafana dashboard, use the 'read-only' user in your login for that
-data.
+data..
